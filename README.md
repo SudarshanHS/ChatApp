@@ -27,6 +27,7 @@ A real-time chat application built with **Firebase** and **Android (Kotlin)**. T
 
 ---
 
+
 ## 📸 Screenshots
 
 _Add screenshots here if you have them!_

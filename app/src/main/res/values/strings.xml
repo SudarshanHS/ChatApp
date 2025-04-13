@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="login_using_user_name">Login using user name</string>
+    <string name="proceed">Proceed</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="toggle_password">Toggle Password</string>
+    <string name="login">LOGIN</string>
+    <string name="dont_have_account">Don\'t have account?</string>
+    <string name="under_development">Under Development</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="chat_logo">Chat Logo</string>
+    <string name="fields_cannot_be_empty">Fields cannot be empty</string>
+</resources>

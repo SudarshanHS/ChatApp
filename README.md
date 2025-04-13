@@ -79,7 +79,8 @@ _Add screenshots here if you have them!_
      ⚠️ Place the google-services.json file into your project’s /app directory
 
 
-  4. Enable Firebase Services
+
+4. Enable Firebase Services
 - In your Firebase console:
 
 - Authentication → Enable Email/Password

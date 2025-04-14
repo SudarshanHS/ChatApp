@@ -30,7 +30,6 @@ A real-time chat application built with **Firebase** and **Android (Kotlin)**. T
 
 ## 📸 Screenshots
 
-_Add screenshots here if you have them!_
 
 ---
 <img src="https://github.com/user-attachments/assets/ad18e4fe-075a-4498-9606-71b3ca71cdf1" alt="" width="245" />
